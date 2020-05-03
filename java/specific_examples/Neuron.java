@@ -1,3 +1,5 @@
+package specific_examples;
+
 public class Neuron {
     private double[] inputs = {1,2,3,2.5};
     private double[] weights = {0.2,0.8,-0.5,1.0};

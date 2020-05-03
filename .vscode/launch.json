@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - DotProduct",
+            "request": "launch",
+            "mainClass": "specific_examples.DotProduct",
+            "projectName": "NN_from_scratch_7ee51802"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Layer",
             "request": "launch",
             "mainClass": "Layer",
